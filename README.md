@@ -1,3 +1,3 @@
-# Adobe 2D shapes detection 
+# Adobe 2D shapes Symmtery Detection (Horizontal, Vertical, Diagonal)
 
-This Jupyter Notebook showcases Python code that possesses the ability to detect 2D shapes like circles and triangles. The code's magic lies in its computation of centroids, distances, and side lengths, enabling accurate shape identification. We've applied this code to sample images provided by Abode's test cases and included the resulting shape detections in this repository.
+This Python file incorporates code designed to identify and quantify distinct shapes within an image. Subsequently, it determines the presence of horizontal, vertical, and diagonal lines of symmetry for these shapes. The script utilizes test images as a benchmark, and the corresponding results are included as well.
